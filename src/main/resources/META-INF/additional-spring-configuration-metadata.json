@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "spring.redis.shiro.host",
+      "type": "java.lang.String",
+      "description": "Description for spring.redis.shiro.host."
+    },
+    {
+      "name": "spring.redis.shiro.port",
+      "type": "java.lang.String",
+      "description": "Description for spring.redis.shiro.port."
+    },
+    {
+      "name": "spring.redis.shiro.timeout",
+      "type": "java.lang.String",
+      "description": "Description for spring.redis.shiro.timeout."
+    }
+  ] }
